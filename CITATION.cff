@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite the associated paper."
+title: "Decision-Centric Evaluation for Agentic AutoML"
+type: software
+authors:
+  - family-names: Du
+    given-names: Gaoyuan
+  - family-names: Ahlawat
+    given-names: Amit
+  - family-names: Liu
+    given-names: Xiaoyang
+  - family-names: Wu
+    given-names: Jing
+repository-code: "https://github.com/Hiramdu/agentic-automl-evaluation"
+license: MIT
+preferred-citation:
+  type: article
+  title: "A Framework for Assessing AI Agent Decisions and Outcomes in AutoML Pipelines"
+  authors:
+    - family-names: Du
+      given-names: Gaoyuan
+    - family-names: Ahlawat
+      given-names: Amit
+    - family-names: Liu
+      given-names: Xiaoyang
+    - family-names: Wu
+      given-names: Jing
+  year: 2026
+  doi: "10.48550/arXiv.2602.22442"
+  url: "https://arxiv.org/abs/2602.22442"
+
