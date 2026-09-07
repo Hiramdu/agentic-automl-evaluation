@@ -1,7 +1,7 @@
 # Decision-Centric Evaluation for Agentic AutoML
 
 [![arXiv](https://img.shields.io/badge/arXiv-2602.22442-b31b1b.svg)](https://arxiv.org/abs/2602.22442)
-[![AMLDS 2026](https://img.shields.io/badge/AMLDS%202026-Accepted-2ea44f.svg)](https://amlds.site/2026.html)
+[![AMLDS 2026](https://img.shields.io/badge/AMLDS%202026-Oral%20Paper-2ea44f.svg)](https://amlds.site/2026.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Official project repository for:
@@ -9,8 +9,8 @@ Official project repository for:
 > **A Framework for Assessing AI Agent Decisions and Outcomes in AutoML Pipelines**  
 > Gaoyuan Du, Amit Ahlawat, Xiaoyang Liu, and Jing Wu, 2026.
 
-**Accepted at the 2026 2nd International Conference on Advanced Machine
-Learning and Data Science (AMLDS 2026), Osaka, Japan.**
+**Accepted for Oral Presentation at the 2026 2nd International Conference on
+Advanced Machine Learning and Data Science (AMLDS 2026), Osaka, Japan.**
 
 Agent-based AutoML systems make multi-stage decisions across data processing,
 model selection, and evaluation. This project introduces an **Evaluation Agent**
@@ -57,8 +57,9 @@ If this work is useful in your research, please cite:
   eprint        = {2602.22442},
   archivePrefix = {arXiv},
   primaryClass  = {cs.AI},
-  note          = {Accepted at the 2026 2nd International Conference on
-                   Advanced Machine Learning and Data Science (AMLDS 2026)},
+  note          = {Accepted for Oral Presentation at the 2026 2nd International
+                   Conference on Advanced Machine Learning and Data Science
+                   (AMLDS 2026)},
   doi           = {10.48550/arXiv.2602.22442},
   url           = {https://arxiv.org/abs/2602.22442}
 }
