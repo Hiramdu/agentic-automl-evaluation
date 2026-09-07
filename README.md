@@ -67,5 +67,5 @@ If this work is useful in your research, please cite:
 
 ## Contact
 
-For questions, suggestions, or collaboration opportunities, please open a
-GitHub issue.
+For questions, suggestions, or collaboration opportunities, please contact
+[Gaoyuan Du](mailto:gdu@amazon.com) at `gdu@amazon.com`.

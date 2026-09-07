@@ -5,6 +5,7 @@ type: software
 authors:
   - family-names: Du
     given-names: Gaoyuan
+    email: "gdu@amazon.com"
   - family-names: Ahlawat
     given-names: Amit
   - family-names: Liu
@@ -28,4 +29,3 @@ preferred-citation:
   year: 2026
   doi: "10.48550/arXiv.2602.22442"
   url: "https://arxiv.org/abs/2602.22442"
-
