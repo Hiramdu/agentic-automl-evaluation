@@ -24,6 +24,12 @@ The framework considers four dimensions:
 3. Model-quality risks beyond accuracy
 4. Counterfactual decision impact
 
+## Keywords
+
+Agentic AutoML, AI agents, LLM agents, decision-centric evaluation,
+trustworthy AI, AI safety, counterfactual evaluation, model governance, and
+autonomous machine learning.
+
 ## Status
 
 This repository is currently a project placeholder. Code, evaluation schemas,
